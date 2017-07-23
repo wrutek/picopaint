@@ -1,5 +1,8 @@
 # Welcome Picopaint
 
+Picopaint is an API for Picopaint project
+
+
 PicoPaint provides an API for all online activities. It covers profiles management,
 friends connections interactions, storing users sprites, images and palettes and
 many more.
